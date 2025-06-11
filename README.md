@@ -2,6 +2,7 @@
 
 I’m a Ph.D candidate in AI for Health & Life Sciences applications 
 Aspiring Computational Neuroscientist to blending Biometrics, Behavioral Informatics & Multi-Omics data for designing Multi-Scale System-Level Neuroscience Computational Models of Brain & Behavior 
+
 Educated in Experimental Psychological Sciences, I am a cross-disciplinary biomedical researcher blending UX Design, Data Science and Generative AI to create the future generation of human-centered brain-machine interfacing systems & behavioral-biosensing interfaces 🤖 🦾🦿🧠
 
 ## Educational Scientific History
