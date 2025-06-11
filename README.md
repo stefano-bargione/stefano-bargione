@@ -8,7 +8,7 @@ Educated in Experimental Psychological Sciences, I am a cross-disciplinary biome
 
 - 🎓 Experimental Psychological Design Software: Jamovi, E-Prime, Qualtrics, GPower
 - 🧬 Signal processing (EEG, TMS) with MNE, MATLAB, Brain Vision Recorder & Analyzer Software toolkits
-- 
+
 ## 👨🏼‍💻 Vibe Coding Colloborative Projects  
 
 - 🧪 [avatar-rome](https://github.com/ku894/avatar-rome) — Builder & Contributor (via [Sundai Club]([https://www.sundai.club/projects]) of rapid prototyping of user-driven AI apps & interfaces
